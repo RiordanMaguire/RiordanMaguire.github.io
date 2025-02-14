@@ -1,14 +1,14 @@
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, Riordan
+<a href="https://www.linkedin.com/in/riordan-maguire-285879109/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Cybersecurity analyst with hands-on experience in threat mitigation, incident response, and application security. Certified in CompTIA CySA+, CompTIA Network+, Microsoft SC-200 and AWS Cloud Practitioner.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I'm a passionate and dedicated learner in the field of Cyber Security, I am eager to apply my skills and knowledge to help protect your organisation and its clients from the ever-increasing threat of cyber attacks. I am now searching for a role  specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
