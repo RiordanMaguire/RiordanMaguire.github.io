@@ -1,14 +1,12 @@
 # Hello, I'm Riordan
 <a href="https://www.linkedin.com/in/riordan-maguire-285879109/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+I’m Riordan Maguire, a dedicated Cybersecurity Analyst with industry certifications including CompTIA CySA+, Network+, BTL1, and AWS Cloud Practitioner. Passionate about cybersecurity, I thrive on solving complex security challenges and continuously expanding my expertise. With an everlasting thirst for knowledge, I stay ahead of emerging threats, new technologies, and best practices to protect systems and data.
 
-Cybersecurity analyst with hands-on experience in threat mitigation, incident response, and application security. Certified in CompTIA CySA+, CompTIA Network+, Microsoft SC-200 and AWS Cloud Practitioner.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-I'm a passionate and dedicated learner in the field of Cyber Security, I am eager to apply my skills and knowledge to help protect your organisation and its clients from the ever-increasing threat of cyber attacks. I am now searching for a role  specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Welcome to my page, where I showcase my hands-on cybersecurity projects, technical skills, and real-world experience in threat analysis, network defense, and security operations. Through various projects using essential industry tools , I demonstrate my expertise in key domains essential to cybersecurity. My goal is to provide insight into my problem-solving approach, technical capabilities, and continuous learning in the field.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -51,7 +49,6 @@ I'm a passionate and dedicated learner in the field of Cyber Security, I am eage
 <img src="https://img.shields.io/badge/-CySA%2B-0033A0?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-232F3E?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
-<img src="https://img.shields.io/badge/-Microsoft%20SC--200-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-Blue%20Team%20Level%201-0000FF?&style=for-the-badge&logoColor=white" />
 </div>
 
