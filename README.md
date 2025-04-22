@@ -9,7 +9,6 @@ I’m Riordan Maguire, a dedicated Cybersecurity Analyst with industry certifica
 Welcome to my page, where I showcase my hands-on cybersecurity projects, technical skills, and real-world experience in threat analysis, network defense, and security operations. Through various projects using essential industry tools , I demonstrate my expertise in key domains essential to cybersecurity. My goal is to provide insight into my problem-solving approach, technical capabilities, and continuous learning in the field.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -28,7 +27,7 @@ Welcome to my page, where I showcase my hands-on cybersecurity projects, technic
 
 </div>
 
-### XXDR
+### XDR
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-800080?style=for-the-badge&logo=Wazuh&logoColor=white" />
