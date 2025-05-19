@@ -12,8 +12,8 @@ Welcome to my page, where I showcase my hands-on cybersecurity projects, technic
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SOAR EDR ( LimaCharlie,Tines,Stack)          | <a href=https://github.com/RiordanMaguire/SOAR-EDR-Project/blob/main/README.md>SOAR</a>|
-| Security Automation (Wazuh,Hive,Shuffle) |<a href="https://google.com"> SOC Automation Lab| | 
+| SOAR EDR ( LimaCharlie,Tines,Stack)     | <a href="https://github.com/RiordanMaguire/SOAR-EDR-Project/blob/main/README.md"> SOAR</a>
+| Active Directory (Splunk,Slack,Shuffle) |<a href="https://google.com"> Coming Soon| | 
 
 
 ## Tools
